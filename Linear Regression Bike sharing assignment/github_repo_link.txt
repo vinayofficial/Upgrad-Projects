@@ -1,0 +1,7 @@
+Linear Regression Bike Sharing Assignment 
+by Vinay Singh Shekhawat
+email: vinaysinghofficial@gmail.com
+
+
+Github Repo Link:
+https://github.com/vinayofficial/Upgrad-Projects/tree/main/Linear%20Regression%20Bike%20sharing%20assignment
