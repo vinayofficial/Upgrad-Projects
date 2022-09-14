@@ -1,0 +1,6 @@
+# Submission of CNN Assignment
+
+Facilitator: Vinay Singh Shekhawat
+
+# GitHub Repo Link: 
+https://github.com/vinayofficial/Upgrad-Projects/tree/main/CNN_assignment
